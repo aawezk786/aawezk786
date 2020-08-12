@@ -34,6 +34,6 @@ Strong background working in **Linux,Apache,Nginx,MySQL**
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Any fool can write code that a computer can understand.Good programmers write code that humans can understand!
 
 </div>
