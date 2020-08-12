@@ -10,14 +10,18 @@
 
 
 I am an **Engineering** student at **CSMIT**.
-
+<br>
 I am a **Full-Stack Developer** with hands on experience in frontend and backend development. Proficient with various web development frameworks and libraries. 
+<br>
 <br>
 Proficiency in **PHP,Ruby,HTML and Javascript**...
 <br>
+<br>
 Database **Experience with MS SQL,MongoDB,Redis**...
 <br>
+<br>
 Experience with **MVC frameworks like Laravel,Ruby on Rails**
+<br>
 <br>
 Strong background working in **Linux,Apache,Nginx,MySQL**
 
