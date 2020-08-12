@@ -1,8 +1,6 @@
 # Hello, I am Aawez <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
-<a href="https://github.com/aawezk786">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aawezk786&theme=dark&hide_langs_below=1" />
-</a>
+
 <a href="https://github.com/aawezk786">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aawezk786&show_icons=true&theme=dark&line_height=27" alt="Aawez's github stats"/>
 </a>
