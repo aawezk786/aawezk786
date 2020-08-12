@@ -10,7 +10,7 @@
 I am an **Engineering** student at **CSMIT**.
 <br>
 <br>
-I am a **Full-Stack Developer** with hands on experience in frontend and backend development. Proficient with various web development frameworks and libraries. 
+I am  **Full-Stack Developer** with hands on experience in frontend and backend development. Proficient with various web development frameworks and libraries. 
 <br>
 <br>
 Proficiency in **PHP,Ruby,HTML and Javascript**...
