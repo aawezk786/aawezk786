@@ -4,24 +4,24 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aawezk786&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/aawezk786">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=aawezk786&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=aawezk786&show_icons=true&theme=dark&line_height=27" alt="Aawez's github stats"/>
 </a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aawezk786" alt="devded" /> </p>
+
 
 
 I am an **Engineering** student at **CSMIT**.
 
 I am a **Full-Stack Developer** with hands on experience in frontend and backend development. Proficient with various web development frameworks and libraries. 
 <br>
-Proficiency in PHP,Ruby,HTML and Javascript...
+Proficiency in **PHP,Ruby,HTML and Javascript**...
 <br>
-Database Experience with MS SQL,MongoDB,Redis
+Database **Experience with MS SQL,MongoDB,Redis**...
 <br>
-Experience with MVC frameworks like Laravel,Ruby on Rails
+Experience with **MVC frameworks like Laravel,Ruby on Rails**
 <br>
-Strong background working in Linux,Apache,Nginx,MySQL
+Strong background working in **Linux,Apache,Nginx,MySQL**
 
 ## 📫 How to reach me:
 
