@@ -8,8 +8,6 @@
 
 
 
-<br>
-<br>
 I am  **Full-Stack Developer** with hands on experience in frontend and backend development. Proficient with various web development frameworks and libraries. 
 <br>
 <br>
