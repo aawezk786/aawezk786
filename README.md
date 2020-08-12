@@ -1,4 +1,4 @@
-# Hello, I am Aawez <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+# Hello, I am Aawez Khan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 
 
@@ -7,7 +7,7 @@
 
 
 
-I am an **Engineering** student at **CSMIT**.
+
 <br>
 <br>
 I am  **Full-Stack Developer** with hands on experience in frontend and backend development. Proficient with various web development frameworks and libraries. 
