@@ -11,13 +11,13 @@
 I am  **Full-Stack Developer** with hands on experience in frontend and backend development. Proficient with various web development frameworks and libraries. 
 <br>
 <br>
-Proficiency in **Node,Angular,React,PHP,Ruby and Javascript**...
+Proficiency in **Node,Angular,React,PHP and Javascript**...
 <br>
 <br>
 Database **Experience with MS SQL,MongoDB,Redis**...
 <br>
 <br>
-Experience with **MVC frameworks like Laravel,Ruby on Rails**
+Experience with **MVC frameworks like Laravel**
 <br>
 <br>
 Strong background working in **Linux,Apache,Nginx,MySQL**
