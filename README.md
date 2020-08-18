@@ -1,7 +1,7 @@
 # Hello, I am Aawez Khan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 
-
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="aawez-khan-90459517b"><a class="LI-simple-link" href='https://in.linkedin.com/in/aawez-khan-90459517b?trk=profile-badge'>Aawez Khan</a></div>
 
 
 
