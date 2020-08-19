@@ -6,7 +6,7 @@
 
 
 
-I am  **Full-Stack Developer** with hands on experience in frontend and backend development. Proficient with various web development frameworks and libraries. 
+I am  **Full-Stack Developer** with hands on experience in **Frontend** and **Backend** development. Proficient with various web development frameworks and libraries. 
 <br>
 <br>
 Proficiency in **Node,Angular,React,PHP and Javascript**...
