@@ -9,7 +9,7 @@
 </a>
 <a align="center" href="https://github.com/aawezk786">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aawezk786&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aawezk786&layout=compact&theme=tokyonight" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=aawezk786&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>
     </p>
 </a>
 
