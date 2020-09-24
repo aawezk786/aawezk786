@@ -2,7 +2,11 @@
 
 
 
-
+<a href="https://github.com/aawezk786">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=aawezk786&column=7&theme=onedark"/>
+    </p>
+</a>
 
 
 
@@ -35,10 +39,6 @@ Strong background working in **Linux,Apache,Nginx,MySQL**
 ### Any fool can write code that a computer can understand.Good programmers write code that humans can understand!
 
 </div>
-<a href="https://github.com/aawezk786">
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=aawezk786&column=7&theme=onedark"/>
-    </p>
-</a>
+
 
 
