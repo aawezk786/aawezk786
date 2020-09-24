@@ -31,7 +31,7 @@ Strong background working in **Linux,Apache,Nginx,MySQL**
 ## 📫 How to reach me:
 
 
-📷 Instagram: [@a_a_w_e_z_](https://www.instagram.com/a_a_w_e_z_/)<br>
+📷 Instagram: [@aawezk786](https://www.instagram.com/aawezk786/)<br>
 🧳 LinkedIn: [Aawez Khan](https://www.linkedin.com/in/aawez-khan-90459517b/)
 <br>
 
