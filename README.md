@@ -7,7 +7,11 @@
         <img src="https://github-profile-trophy.vercel.app/?username=aawezk786&column=7&theme=onedark"/>
     </p>
 </a>
-
+<a align="center" href="https://github.com/aawezk786">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=aawezk786&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aawezk786&layout=compact&theme=tokyonight" alt="languages" height="165">
+    </p>
+</a>
 
 
 I am  **Full-Stack Developer** with hands on experience in **Frontend** and **Backend** development. Proficient with various web development frameworks and libraries. 
