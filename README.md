@@ -24,7 +24,7 @@ Proficiency in **Node,Angular,React,PHP and Javascript**...
 Database **Experience with MS SQL,MongoDB,Redis**...
 <br>
 <br>
-Experience with **MVC frameworks like Laravel**
+Experience with **MVC and MVVM frameworks**
 <br>
 <br>
 Strong background working in **Linux,Apache,Nginx,MySQL**
