@@ -27,7 +27,7 @@ Database **Experience with MS SQL,MongoDB,Redis**...
 Experience with **MVC and MVVM frameworks**
 <br>
 <br>
-Strong background working in **Linux,Apache,Nginx,MySQL**
+Strong background working in **Linux,Apache,MySQL**
 
 ## 📫 How to reach me:
 
