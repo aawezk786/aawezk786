@@ -1,6 +1,6 @@
 # Hello, I am Aawez Khan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=A+Full+Stack+Developer;Coding+Enthusiast)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=Software+Developer;Coding+Enthusiast)](https://git.io/typing-svg)
 
 <a href="https://github.com/aawezk786">
     <p align="center">
