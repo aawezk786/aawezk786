@@ -32,7 +32,7 @@ Strong background working in **Linux,Apache,MySQL**
 ## 📫 How to reach me:
 
 
-📷 Instagram: [@aawezk786](https://www.instagram.com/aawezk786/)<br>
+📷 Instagram: [@aawezk786](https://www.instagram.com/aawez._.khan/)<br>
 🧳 LinkedIn: [Aawez Khan](https://www.linkedin.com/in/aawez-khan-90459517b/)
 <br>
 
