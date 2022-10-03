@@ -15,7 +15,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
-I am  **Full-Stack Developer** with hands on experience in **Frontend** and **Backend** development. Proficient with various web development frameworks and libraries. 
+I am  **Full-Stack Developer** with hands on experience in **Frontend** and **Backend** development. Proficient with various web development frameworks and libraries. (LEETCODE SEPT 2021 RUNNER UP INTERNATIONAL LEVEL)
 <br>
 <br>
 Proficiency in **Node,Angular,Flutter,PHP and Javascript**...
